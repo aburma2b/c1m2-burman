@@ -1,4 +1,4 @@
-This repository holds code for assignment 1 
+This repository holds code for assignment 2 
 of the Coursera course: 
 Introduction to Embedded Systems Software and Development Environments
 
